@@ -4,7 +4,7 @@ parent:
 -->
 
 <div align="center">
-  <h1> Origo </h1>
+  <h1> Origo Evmos forked blockchain </h1>
 </div>
 
 <div align="center">
